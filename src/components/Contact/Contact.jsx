@@ -44,18 +44,18 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Email</h4>
-                  <Link to="#">devis@example.com</Link>
-                  <Link to="#">info@support.com</Link>
-                </div>
+                  <Link to="mailto:anuraggupta8309@gmail.com">anuraggupta8309@gmail.com</Link>
+               </div>
               </div>
               <div className="st-single-contact-info">
                 <div className="st-icon-wrap">
                   <Icon icon="fa-solid:phone-alt" />
                 </div>
-                <div className="st-single-info-details">
+                 <div className="st-single-info-details">
+                  <a href="tel:+919167243580">
                   <h4>Phone</h4>
-                  <span>+1 876-369-9009</span>
-                  <span>+1 213-519-1786</span>
+                  <span>+91 91672 43580</span>
+                  </a>
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -63,8 +63,8 @@ const Contact = ({ data, socialData }) => {
                   <Icon icon="mdi:location" />
                 </div>
                 <div className="st-single-info-details">
-                  <h4>Address</h4>
-                  <span>2661 High Meadow Lane Bear Creek, <br />Olancha, KY 93544</span>
+                   <h4>Address</h4>
+                  <span>Jogeshwari West, Mumbai,<br />Maharashtra, India</span>
                 </div>
               </div>
               <div className="st-social-info">

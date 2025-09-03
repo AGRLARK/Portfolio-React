@@ -2,377 +2,247 @@
   "heroData": {
     "homeOneHero": {
       "bgImgLink": "/images/background/hero-bg.jpg",
-      "imgLink": "/images/section/anuraggupta.png",
+      "imgLink": "/images/section/AnuragGupta850x850.png",
       "title": "Anurag <br /> Gupta",
       "subTitle": "Hello, I’m",
       "designation": "Software Engineer"
     },
     "homeTwoHero": {
-      "imgAuthor": "/images/section/hero-img.jpg",
+      "imgAuthor": "/images/section/AnuragGupta850x850.png",
       "bgImgLink": "/images/background/hero-bg.jpg",
       "title": "Hi, I am <span>Aurag Gupta</span>",
       "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
     },
     "homeThreeHero": {
-      "imgAuthor": "/images/section/hero-img.jpg",
+      "imgAuthor": "/images/section/AnuragGupta850x850.png",
       "bgImgLink": "/images/background/hero-bg-1.jpg",
       "title": "Hi, I am <span>Aurag Gupta</span>",
-      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
-    },
+      "text": "I am a Full Stack Developer and Technology Architect with expertise in building scalable web applications. <br>I specialize in Next.js, MERN Stack, and AWS, creating secure, high-performance solutions. <br>I love transforming ideas into impactful digital experiences."
+ },
     "homeFourHero": {
-      "imgAuthor": "/images/section/hero-img.jpg",
+      "imgAuthor": "/images/section/AnuragGupta850x850.png",
       "bgImgLink": "/images/background/hero-bg-2.jpg",
       "title": "Hi, I am <span>Aurag Gupta</span>",
       "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
     }
   },
   "aboutData": {
-    "imgLink": "/images/section/anuraggupta.png",
-    "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Anurag Gupta",
-    "subtitle": "Software Engineer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
-    "details": [
-      {
-        "title": "Birthday",
-        "info": "May 07, 1990"
-      },
-      {
-        "title": "Phone",
-        "info": "+1 876-369-9009"
-      },
-      {
-        "title": "Email",
-        "info": "devis@example.com"
-      },
-      {
-        "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
-      },
-      {
-        "title": "Language",
-        "info": "English, Germanic"
-      },
-      {
-        "title": "Freelance",
-        "info": "Available"
-      },
-      {
-        "title": "Freelance",
-        "info": "Available"
-      }
-    ]
+  "imgLink": "/images/section/anuraggupta.png",
+  "cvPdf": "/images/Resume.pdf",
+  "title": "Anurag Gupta",
+  "subtitle": "Full Stack Developer",
+  "text": "I am a passionate Full Stack Developer with experience in building scalable web applications using Next.js, React.js, Express.js, Node.js, and MongoDB. I enjoy designing and developing clean, user-friendly interfaces and robust backend systems. My focus is on creating efficient, secure, and high-performing applications that deliver real value.",
+  "details": [
+    {
+      "title": "Birthday",
+      "info": "September 05, 2003"
+    },
+    {
+      "title": "Phone",
+      "info": "+91 91672 43580"
+    },
+    {
+      "title": "Email",
+      "info": "anuraggupta8309@gmail.com"
+    },
+    {
+      "title": "From",
+      "info": "Mumbai, India"
+    },
+    {
+      "title": "Language",
+      "info": "English, Hindi"
+    },
+    {
+      "title": "Freelance",
+      "info": "Available"
+    }
+  ]
   },
-  "serviceData": {
-    "services": [
-      {
-        "imgLink": "./images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
-        "effect": "zoom-out-up",
-        "duration": "500",
-        "delay": "700"
-      }
-    ]
+ "serviceData": {
+  "services": [
+    {
+      "imgLink": "./images/icon/icon1.png",
+      "title": "Frontend Development",
+      "text": "Building modern, responsive, and interactive UIs using Next.js, React.js, and Tailwind CSS with a focus on performance and user experience.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "200"
+    },
+    {
+      "imgLink": "./images/icon/icon2.png",
+      "title": "Backend Development",
+      "text": "Designing and implementing secure, scalable APIs and server-side logic using Node.js, Express.js, and MongoDB for efficient data management.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "300"
+    },
+    {
+      "imgLink": "./images/icon/icon3.png",
+      "title": "Full Stack Applications",
+      "text": "End-to-end web application development combining frontend, backend, and databases to deliver complete, production-ready solutions.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "imgLink": "./images/icon/icon4.png",
+      "title": "Deployment & DevOps",
+      "text": "Containerization and deployment with Docker, AWS (EC2, S3, Lambda, SES, SQS) and CI/CD pipelines for smooth and automated releases.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "imgLink": "./images/icon/icon5.png",
+      "title": "Database Design",
+      "text": "Structuring optimized and scalable databases with MongoDB and MySQL, ensuring data integrity, efficiency, and performance.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "imgLink": "./images/icon/icon6.png",
+      "title": "WordPress & PHP Solutions",
+      "text": "Custom websites, blogs, and CMS development with WordPress and PHP, tailored to client requirements with SEO optimization.",
+      "effect": "zoom-out-up",
+      "duration": "500",
+      "delay": "700"
+    }
+  ]
   },
   "skillData": {
-    "title": "All the skills that I have in that field of work are mentioned.",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
-    "skills": [
-      {
-        "title": "Photoshop",
-        "progress": "95%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "title": "Motion Graphic",
-        "progress": "75%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "title": "Adobe XD",
-        "progress": "90%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "title": "UX Design",
-        "progress": "85%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "title": "HTML",
-        "progress": "80%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "title": "Digital Marketing",
-        "progress": "90%",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      }
-    ]
+  "title": "My Technical Skills",
+  "text": "I have hands-on experience in full-stack web development, mobile app development, cloud deployment, and backend system design. My skill set allows me to build scalable, secure, and user-friendly applications from scratch, integrating both frontend and backend seamlessly.",
+  "skills": [
+    {
+      "title": "Next.js / React.js",
+      "progress": "90%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "200"
+    },
+    {
+      "title": "Node.js / Express.js",
+      "progress": "85%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "300"
+    },
+    {
+      "title": "MongoDB / MySQL",
+      "progress": "80%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "title": "Docker & CI/CD",
+      "progress": "75%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "title": "AWS (EC2, S3, Lambda, SES, SQS)",
+      "progress": "70%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "title": "React Native",
+      "progress": "65%",
+      "effect": "fade-up",
+      "duration": "500",
+      "delay": "700"
+    }
+  ]
   },
   "portfolioData": {
-    "portfolioItems": [
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      }
-    ]
+  "portfolioItems": [
+    {
+      "imgLink": "./images/portfolio/my/thesmartfellowship.png",
+      "imgLinkLg": "./images/portfolio/my/thesmartfellowship.png",
+      "title": "The Smart Fellowship",
+     "subTitle": "Immersive offline workplace simulation—train your mind to master human-first skills like jugaad, emotional intelligence & first-principles thinking.",
+    "effect": "fade-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "imgLink": "./images/portfolio/my/mcansey.png",
+      "imgLinkLg": "./images/portfolio/my/mcansey.png",
+      "title": "MCANSEY IT Services & Consulting Pvt Ltd",
+      "subTitle": "Corporate IT-services portal crafted with modern Next.js, Tailwind, TypeScript & Embla—sleek responsive UI with seamless email integration.",
+    "effect": "fade-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "imgLink": "./images/portfolio/my/samanyagyan.png",
+      "imgLinkLg": "./images/portfolio/my/samanyagyan.png",
+      "title": "Samanya Gyan",
+      "subTitle": "Intuitive government exam prep portal—Next.js frontend, MERN backend; quizzes, tests & secure API flows with crisp, responsive UX.",
+    "effect": "fade-up",
+      "duration": "500",
+      "delay": "900"
+    },
+    {
+      "imgLink": "./images/portfolio/my/varcas.png",
+      "imgLinkLg": "./images/portfolio/my/varcas.png",
+      "title": "Varcas Batteries",
+      "subTitle": "Product-rich showcase for battery tech—Next.js + MERN stack delivers dynamic specs, pricing, and intuitive user navigation.",
+    "effect": "fade-up",
+      "duration": "500",
+      "delay": "400"
+    },
+    {
+      "imgLink": "./images/portfolio/my/24x7sevicecenter.png",
+      "imgLinkLg": "./images/portfolio/my/24x7sevicecenter.png",
+      "title": "24x7 Service Centers",
+      "subTitle": "Comprehensive home appliance repair platform—Next.js, Firebase & Express power seamless user-service interactions and backend workflows.",
+   "effect": "fade-up",
+      "duration": "500",
+      "delay": "500"
+    },
+    {
+      "imgLink": "./images/portfolio/my/hub-enterpises.png",
+      "imgLinkLg": "./images/portfolio/my/hub-enterpises.png",
+      "title": "Hub Enterprises",
+      "subTitle": "Elegant interior-design showcase with graceful UI—built using HTML, CSS, Bootstrap & PHP for a polished browsing experience.",
+    "effect": "fade-up",
+      "duration": "500",
+      "delay": "600"
+    },
+    {
+      "imgLink": "./images/portfolio/my/JAI-MATA-DI-INTERIOR-CONTRACTOR-main.jpg",
+      "imgLinkLg": "./images/portfolio/my/JAI-MATA-DI-INTERIOR-CONTRACTOR-main.jpg",
+      "title": "Jai Mata Di Interior",
+      "subTitle": "Interior contractor website—crafted using HTML, PHP & MySQL; SEO-optimized for visibility; easy navigation for showcases and inquiries.",
+   "effect": "fade-up",
+      "duration": "500",
+      "delay": "700"
+    },
+    {
+      "imgLink": "./images/portfolio/my/ajprod.png",
+      "imgLinkLg": "./images/portfolio/my/ajprod.png",
+      "title": "AJ Productions",
+      "subTitle": "WordPress event-management site—featuring service portfolios, testimonials, contact forms & galleries; SEO-tuned for engagement.",
+   "effect": "fade-up",
+      "duration": "500",
+      "delay": "800"
+    },
+    {
+      "imgLink": "./images/portfolio/my/digitalinfotech.png",
+      "imgLinkLg": "./images/portfolio/my/digitalinfotech.png",
+      "title": "Digital Infotech",
+      "subTitle": "Local repair-service presence—WordPress site built for Mumbai’s mobile & computer service center; responsive, SEO-enhanced, client-centric.",
+    "effect": "fade-up",
+      "duration": "500",
+      "delay": "900"
+    }
+  ]
   },
   "blogData": {
     "useFor": "blog",
@@ -445,153 +315,155 @@
     ]
   },
   "reviewData": {
-    "useFor": "review",
-    "sliderSetting": {
-      "infinite": true,
-      "speed": 500,
-      "slidesToShow": 3,
-      "slidesToScroll": 1,
-      "arrows": false,
-      "responsive": [
-        {
-          "breakpoint": 991,
-          "settings": {
-            "slidesToShow": 2,
-            "autoplay": true
-          }
-        },
-        {
-          "breakpoint": 767,
-          "settings": {
-            "slidesToShow": 1,
-            "autoplay": true
-          }
+  "useFor": "review",
+  "sliderSetting": {
+    "infinite": true,
+    "speed": 500,
+    "slidesToShow": 3,
+    "slidesToScroll": 1,
+    "arrows": false,
+    "responsive": [
+      {
+        "breakpoint": 991,
+        "settings": {
+          "slidesToShow": 2,
+          "autoplay": true
         }
-      ]
-    },
-    "informations": [
-      {
-        "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
       },
       {
-        "imgLink": "./images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
-      },
-      {
-        "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "breakpoint": 767,
+        "settings": {
+          "slidesToShow": 1,
+          "autoplay": true
+        }
       }
     ]
   },
+  "informations": [
+    {
+      
+      "title": "Rohit Sharma",
+      "designation": "Founder, TechVision",
+      "text": "Working with this team was a fantastic experience. They delivered our project on time with great attention to detail."
+    },
+    {
+      "title": "Ananya Verma",
+      "designation": "Marketing Head, Creative Hub",
+      "text": "The website design was clean, professional, and user-friendly. It helped us connect better with our audience."
+    },
+    {
+      "title": "Arjun Mehta",
+      "designation": "Managing Director, FinEdge",
+      "text": "They understood our requirements perfectly and implemented solutions that improved our business efficiency."
+    },
+    {
+      "title": "Priya Iyer",
+      "designation": "HR Manager, SkillPoint",
+      "text": "The support and communication throughout the project were excellent. Highly recommended for any digital solutions."
+    },
+    {
+      "title": "Siddharth Nair",
+      "designation": "CEO, BrightFuture EdTech",
+      "text": "Their technical expertise and creativity brought our vision to life. The platform runs smoothly and looks amazing."
+    },
+    {
+      "title": "Neha Gupta",
+      "designation": "Operations Head, GreenLeaf Interiors",
+      "text": "Very professional and reliable team. The final output exceeded our expectations in terms of design and performance."
+    }
+  ]
+  },
   "resumeData": {
-    "experienceTitle": "Experience",
-    "experience": [
-      {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      }
-    ],
-    "educationTitle": "Education",
-    "education": [
-      {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      }
-    ]
+  "experienceTitle": "Experience",
+  "experience": [
+    {
+      "title": "Technology Architect",
+      "duration": "Feb 2025 - Present",
+      "subTitle": "Workverse, Mumbai (Khar Road)",
+      "text": "Designed and developed the complete backend system for a Simulation Game platform using Express.js and MongoDB. Built an admin dashboard with Next.js, TypeScript, and Tailwind CSS for organizations to manage learners and licenses. Implemented Firebase authentication and verified tokens for Google and Apple devices. Deployed and scaled systems using AWS (EC2, S3, Lambda, SES, SQS, Route 53, CloudWatch, IAM)."
+    },
+    {
+      "title": "Full Stack Developer",
+      "duration": "Aug 2024 - Jan 2025",
+      "subTitle": "MCANSEY IT Services & Consulting Pvt Ltd, Mira Bhayandar",
+      "text": "Contributed to multinational and Indian projects using Next.js, React.js, Node.js, Express.js, and MongoDB. Developed platforms including NewzCover (real-time news), The Flique (tech reviews), Varcas Batteries (battery technology showcase), and 24x7 Service Centers (appliance repair). Implemented CI/CD pipelines, version control strategies, and deployments on VPS and AWS."
+    },
+    {
+      "title": "Full Stack Developer",
+      "duration": "May 2024 - Jul 2024",
+      "subTitle": "Intouch Digital Marketing Institute Pvt Ltd, Malad, Mumbai",
+      "text": "Developed and maintained websites using React.js, Express.js, MongoDB, and PHP. Built client projects including a spa booking system and modified institute websites with scholarship pages and backend enhancements. Collaborated in a service-based company environment ensuring timely project delivery."
+    },
+    {
+      "title": "Full Stack Developer",
+      "duration": "Jul 2023 - May 2024",
+      "subTitle": "A H Satija & Co, Goregaon, Mumbai",
+      "text": "Worked on a restaurant application using TypeScript, React.js, Redux, and Node.js. Built frontend and backend features to improve user experience and performance. Gained strong MERN stack expertise and collaborated on scalable software solutions for the restaurant industry."
+    },
+    {
+      "title": "Frontend Developer ",
+      "duration": "Mar 2023 - Jun 2023",
+      "subTitle": "APML (Agarwal Packers & Movers), Goregaon, Mumbai",
+      "text": "Developed a dynamic React.js table for data visualization and created a dashboard to track logistics operations. Used MongoDB for efficient activity tracking, improving data management and reporting."
+    }
+  ],
+  "educationTitle": "Education",
+  "education": [
+    {
+      "title": "Bachelor of Science in Computer Science",
+      "duration": "2021 - 2024",
+      "subTitle": "Thakur College of Science & Commerce, Mumbai University",
+      "text": "Graduated with strong academic performance (CGPA 8.69). Gained core knowledge in programming, data structures, web technologies, and full-stack development."
+    },
+    {
+      "title": "Higher Secondary Certificate (HSC) - Science",
+      "duration": "2020 - 2021",
+      "subTitle": "Valia College, Mumbai",
+      "text": "Completed HSC with specialization in Physics, Chemistry, and Mathematics, along with Computer Science."
+    },
+    {
+      "title": "Secondary School Certificate (SSC)",
+      "duration": "2018 - 2019",
+      "subTitle": "Smt. R.M.V. School, Mumbai",
+      "text": "Completed SSC with distinction, building a strong foundation in academics and an early interest in computer science."
+    }
+  ]
   },
   "contactData": {
     "formTitle": "Just say Hello",
     "title": "Contact Info",
-    "subTitle": "Visite my social profile and get connected",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+    "subTitle": "Visit my social profiles and get connected",
+    "text": "Feel free to reach out for collaborations, project inquiries, or just to connect. I’m always open to discussing new opportunities, creative ideas, and ways to bring value through technology."
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
+      "icon": "github",
+      "title": "github",
+      "link": "https://github.com/AGRLARK"
     },
     {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
-    },
-    {
-      "icon": "twitter",
-      "title": "Twitter",
-      "link": "/"
+      "icon": "twitch",
+      "title": "Mail",
+      "link": "mailto:anuraggupta8309@gmail.com"
     },
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/anurag-gupta-4b7b04249/"
     }
   ],
   "socialData2": [
     {
-      "icon": "facebook-f",
-      "link": "/facebook"
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/anurag-gupta-4b7b04249/"
     },
     {
-      "icon": "twitter",
-      "link": "/twitter"
+      "icon": "twitch",
+      "link": "mailto:anuraggupta8309@gmail.com"
     },
     {
       "icon": "github",
-      "link": "/github"
+      "link": "https://github.com/AGRLARK"
     }
   ]
 }
