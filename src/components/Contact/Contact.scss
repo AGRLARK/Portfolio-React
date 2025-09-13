@@ -170,3 +170,10 @@
     }
   }
 }
+
+// Form button disabled state
+.st-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  pointer-events: none;
+}

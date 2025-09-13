@@ -340,39 +340,43 @@
     ]
   },
   "informations": [
-    {
-      
-      "title": "Rohit Sharma",
-      "designation": "Founder, TechVision",
-      "text": "Working with this team was a fantastic experience. They delivered our project on time with great attention to detail."
-    },
-    {
-      "title": "Ananya Verma",
-      "designation": "Marketing Head, Creative Hub",
-      "text": "The website design was clean, professional, and user-friendly. It helped us connect better with our audience."
-    },
-    {
-      "title": "Arjun Mehta",
-      "designation": "Managing Director, FinEdge",
-      "text": "They understood our requirements perfectly and implemented solutions that improved our business efficiency."
-    },
-    {
-      "title": "Priya Iyer",
-      "designation": "HR Manager, SkillPoint",
-      "text": "The support and communication throughout the project were excellent. Highly recommended for any digital solutions."
-    },
-    {
-      "title": "Siddharth Nair",
-      "designation": "CEO, BrightFuture EdTech",
-      "text": "Their technical expertise and creativity brought our vision to life. The platform runs smoothly and looks amazing."
-    },
-    {
-      "title": "Neha Gupta",
-      "designation": "Operations Head, GreenLeaf Interiors",
-      "text": "Very professional and reliable team. The final output exceeded our expectations in terms of design and performance."
-    }
-  ]
+  {
+    "imgLink": "/images/client/client-comment.jpg",
+    "title": "Rohit Sharma",
+    "designation": "Founder, TechVision",
+    "text": "Anurag’s expertise in React.js and Next.js was evident throughout our project. The solution was delivered on time, with seamless deployment and outstanding attention to detail."
   },
+  {
+    "imgLink": "/images/client/client-comment.jpg",
+    "title": "Ananya Verma",
+    "designation": "Marketing Head, Creative Hub",
+    "text": "The web platform he developed was modern, scalable, and extremely user-friendly. His MERN stack skills ensured a smooth backend integration that enhanced our customer engagement."
+  },
+  {
+    "imgLink": "/images/client/client-comment.jpg",
+    "title": "Arjun Mehta",
+    "designation": "Managing Director, FinEdge",
+    "text": "He quickly understood our complex requirements and built a secure, efficient system. His deployment knowledge ensured our business processes ran without interruptions."
+  },
+  {
+    "imgLink": "/images/client/client-comment.jpg",
+    "title": "Priya Iyer",
+    "designation": "HR Manager, SkillPoint",
+    "text": "Anurag maintained excellent communication and support throughout. His ability to handle both frontend and backend with equal expertise made the project execution stress-free."
+  },
+  {
+    "imgLink": "/images/client/client-comment.jpg",
+    "title": "Siddharth Nair",
+    "designation": "CEO, BrightFuture EdTech",
+    "text": "His technical depth in Next.js and MERN stack helped us scale our EdTech platform effortlessly. The final product was fast, reliable, and exceeded our expectations."
+  },
+  {
+    "imgLink": "/images/client/client-comment.jpg",
+    "title": "Neha Gupta",
+    "designation": "Operations Head, GreenLeaf Interiors",
+    "text": "Anurag combined creativity with technical precision. From clean UI design to smooth deployment, the outcome was professional and perfectly aligned with our brand vision."
+  }
+  ]},
   "resumeData": {
   "experienceTitle": "Experience",
   "experience": [
