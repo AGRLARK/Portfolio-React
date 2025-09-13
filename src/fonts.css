@@ -1,0 +1,93 @@
+/* Global Font Overrides - Direct CSS injection */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+/* Global font application with maximum specificity */
+html, body, #root, #root * {
+  font-family: 'Inter', 'Open Sans', sans-serif !important;
+}
+
+/* All headings use Montserrat or Poppins (bold, strong impression) */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,
+.display-1, .display-2, .display-3, .display-4, .display-5, .display-6 {
+  font-family: 'Montserrat', 'Poppins', sans-serif !important;
+}
+
+/* All text elements use Inter or Open Sans (smooth reading) */
+p, span, div, a, li, td, th, input, textarea, select, label, button,
+.form-control, .form-label, .form-text, .form-check-label,
+.navbar-brand, .nav-link, .dropdown-item, .btn, .card-text, .card-title,
+.alert, .badge, .breadcrumb, .list-group-item, .modal-title, .modal-body,
+.table, .table th, .table td, .lead, .small, .text-muted, .text-primary,
+.text-secondary, .text-success, .text-danger, .text-warning, .text-info,
+.text-light, .text-dark, .text-white, .text-body, .text-black-50, .text-white-50 {
+  font-family: 'Inter', 'Open Sans', sans-serif !important;
+}
+
+/* Cursive font for special elements */
+.st-cursive, .cursive, .font-cursive {
+  font-family: 'Dancing Script', cursive !important;
+}
+
+/* Override any inline styles */
+[style*="font-family"] {
+  font-family: 'Inter', 'Open Sans', sans-serif !important;
+}
+
+/* Override Bootstrap and other external libraries */
+.container, .container-fluid, .row, .col, .col-1, .col-2, .col-3, .col-4, .col-5, .col-6,
+.col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col-sm, .col-md, .col-lg, .col-xl,
+.col-xxl, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6,
+.col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-md-1, .col-md-2,
+.col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10,
+.col-md-11, .col-md-12, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6,
+.col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-xl-1, .col-xl-2,
+.col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10,
+.col-xl-11, .col-xl-12, .col-xxl-1, .col-xxl-2, .col-xxl-3, .col-xxl-4, .col-xxl-5, .col-xxl-6,
+.col-xxl-7, .col-xxl-8, .col-xxl-9, .col-xxl-10, .col-xxl-11, .col-xxl-12 {
+  font-family: 'Inter', 'Open Sans', sans-serif !important;
+}
+
+/* AOS library overrides */
+[data-aos], [data-aos] * {
+  font-family: 'Inter', 'Open Sans', sans-serif !important;
+}
+
+[data-aos] h1, [data-aos] h2, [data-aos] h3, [data-aos] h4, [data-aos] h5, [data-aos] h6 {
+  font-family: 'Montserrat', 'Poppins', sans-serif !important;
+}
+
+/* Custom component overrides */
+.st-btn, .st-hero-text, .st-section-heading, .st-text-block, .st-iconbox,
+.st-skill-title, .st-progressbar-heading, .st-progressbar-title, .st-contact-title,
+.st-form-field, .st-single-contact-info, .st-single-info-details, .st-social-info,
+.st-nav, .st-main-header, .st-site-header, .st-footer, .st-portfolio, .st-resume,
+.st-review, .st-blog, .st-modal, .st-preloader, .st-cursor, .st-particle,
+.st-slider, .st-404 {
+  font-family: 'Inter', 'Open Sans', sans-serif !important;
+}
+
+/* Headings in custom components */
+.st-btn h1, .st-btn h2, .st-btn h3, .st-btn h4, .st-btn h5, .st-btn h6,
+.st-hero-text h1, .st-hero-text h2, .st-hero-text h3, .st-hero-text h4, .st-hero-text h5, .st-hero-text h6,
+.st-section-heading h1, .st-section-heading h2, .st-section-heading h3, .st-section-heading h4, .st-section-heading h5, .st-section-heading h6,
+.st-text-block h1, .st-text-block h2, .st-text-block h3, .st-text-block h4, .st-text-block h5, .st-text-block h6,
+.st-iconbox h1, .st-iconbox h2, .st-iconbox h3, .st-iconbox h4, .st-iconbox h5, .st-iconbox h6,
+.st-contact-title, .st-skill-title, .st-progressbar-title,
+.st-nav h1, .st-nav h2, .st-nav h3, .st-nav h4, .st-nav h5, .st-nav h6,
+.st-main-header h1, .st-main-header h2, .st-main-header h3, .st-main-header h4, .st-main-header h5, .st-main-header h6,
+.st-site-header h1, .st-site-header h2, .st-site-header h3, .st-site-header h4, .st-site-header h5, .st-site-header h6,
+.st-footer h1, .st-footer h2, .st-footer h3, .st-footer h4, .st-footer h5, .st-footer h6,
+.st-portfolio h1, .st-portfolio h2, .st-portfolio h3, .st-portfolio h4, .st-portfolio h5, .st-portfolio h6,
+.st-resume h1, .st-resume h2, .st-resume h3, .st-resume h4, .st-resume h5, .st-resume h6,
+.st-review h1, .st-review h2, .st-review h3, .st-review h4, .st-review h5, .st-review h6,
+.st-blog h1, .st-blog h2, .st-blog h3, .st-blog h4, .st-blog h5, .st-blog h6,
+.st-modal h1, .st-modal h2, .st-modal h3, .st-modal h4, .st-modal h5, .st-modal h6,
+.st-preloader h1, .st-preloader h2, .st-preloader h3, .st-preloader h4, .st-preloader h5, .st-preloader h6,
+.st-cursor h1, .st-cursor h2, .st-cursor h3, .st-cursor h4, .st-cursor h5, .st-cursor h6,
+.st-particle h1, .st-particle h2, .st-particle h3, .st-particle h4, .st-particle h5, .st-particle h6,
+.st-slider h1, .st-slider h2, .st-slider h3, .st-slider h4, .st-slider h5, .st-slider h6,
+.st-404 h1, .st-404 h2, .st-404 h3, .st-404 h4, .st-404 h5, .st-404 h6 {
+  font-family: 'Montserrat', 'Poppins', sans-serif !important;
+}

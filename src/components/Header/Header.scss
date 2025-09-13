@@ -69,7 +69,7 @@
           display: inline-block;
           color: $base-color3;
           text-transform: uppercase;
-          font-family: "Roboto", sans-serif;
+          font-family: $font-secondary !important;
           font-weight: 500;
           cursor: pointer;
 
